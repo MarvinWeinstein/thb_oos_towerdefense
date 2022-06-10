@@ -1,0 +1,131 @@
+TUTORIAL PATH
+
+self.path = [(0, 211), (328, 336), (356, 338), (824, 249), (853, 249), (1024, 311)]
+
+-------------------------------
+
+HAUPTMENÜ:
+
+Neues Spiel:
+x = 50  -> 487
+y = 220 -> 340
+
+Fortsetzen:
+x = 537 -> 974
+y = 220 -> 340
+
+Tutorial:
+x = 50  -> 487
+y = 390 -> 510
+
+Bestenliste:
+x = 537 -> 974
+y = 390 -> 510
+
+Beenden:
+x = 537 -> 974
+y = 560 -> 680
+
+-------------------------------
+
+LEADERBOARD:
+
+P1:
+x = 50
+y = 102
+
+P2:
+x = 50
+y = 167
+
+P3:
+x = 50
+y = 232
+
+P4:
+x = 50
+y = 297
+
+P5:
+x = 50
+y = 362
+
+P6:
+x = 50
+y = 427
+
+P7:
+x = 50
+y = 492
+
+P8:
+x = 50
+y = 557
+
+P9:
+x = 50
+y = 622
+
+P10:
+x = 50
+y = 687
+
+Zurück:
+x = 844
+y = 687
+
+-------------------------------
+
+IN-GAME:
+
+Menu
+x = 12
+y = 556
+
+Pause Button
+x = 917 -> 992
+y = 576 -> 736
+
+Upgrade Range / Laser Tower
+x = 32  -> 307
+y = 576 -> 696
+
+Upgrade Frequency / Bomb Tower
+x = 327 -> 602
+y = 576 -> 696
+
+Upgrade Power / Abreißen
+x = 622 -> 897
+y = 576 -> 696
+
+Building Area 1
+x = 12	-> 162
+y = 149	-> 224
+
+Building Area 2
+x = 279	-> 479
+y = 56	-> 131
+
+Building Area 3
+x = 365	-> 490
+y = 210	-> 260
+
+Building Area 4
+x = 664	-> 814
+y = 156	-> 256
+
+Building Area 5
+x = 684	-> 734 
+y = 293	-> 343
+
+Building Area 6
+x = 322	-> 372
+y = 368	-> 493
+
+Building Area 7
+x = 469	-> 569
+y = 380	-> 430
+
+Building Area 8
+x = 825	-> 975
+y = 354	-> 454
